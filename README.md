@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Liqi Jiang
 - 🍰 I’m interested in baking cakes
 - 🍵 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on finding a job
+- 💞️ I’m finding a job
 - 📫 569711274@qq.com / 🛰️  jiangliqi77
 
 <!---
